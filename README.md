@@ -1,12 +1,10 @@
 # Module 22 Sweet Home
 
-## Overview of the Analysis
+## Overview
 
-An exploration of pySpark, Hadoop, and Parquet [using Windows]*. SQL in Python... nothing crazy.
+An exploration of pySpark, Hadoop, and Parquet [using Windows]*. SQL in Python with a focus on performance... nothing crazy.
 
 ## Implementation
-
-Foreward
 
 * I respect that GoogleColab exists and is especially useful for 'one off needs' such as this class
 * In spite of its 'lowest common denominator' value to my instructors, I attempted a local install:
