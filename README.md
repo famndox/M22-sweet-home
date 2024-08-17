@@ -45,6 +45,6 @@ Parqued* in my case is a second Cached run:
 Thank you for reading my bitter tale. If you must, take my ~30 points for attempting what my teacher(s) gave up on. 
 
 From Requirements:
-* 9. A partition of the home sales dataset by the "date_built" field is created, and the formatted parquet data is read. (10 points)
-* 10. A temporary table of the parquet data is created. (10 points)
-* 11. The query from step 6 is run on the parquet temporary table, and the run time is computed. (10 points)
+<br>9. A partition of the home sales dataset by the "date_built" field is created, and the formatted parquet data is read. (10 points)
+<br>10. A temporary table of the parquet data is created. (10 points)
+<br>11. The query from step 6 is run on the parquet temporary table, and the run time is computed. (10 points)
